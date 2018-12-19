@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimerTriggered", "TimerTrig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpTriggered", "HttpTriggered\HttpTriggered.csproj", "{B77A34FC-CA37-45AD-9DF4-C7E4679D1843}"
 EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "01-FunctionApp", "01-FunctionApp\01-FunctionApp.deployproj", "{76978D9D-A2C1-4E87-9769-9B299AFFBE21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B77A34FC-CA37-45AD-9DF4-C7E4679D1843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B77A34FC-CA37-45AD-9DF4-C7E4679D1843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B77A34FC-CA37-45AD-9DF4-C7E4679D1843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76978D9D-A2C1-4E87-9769-9B299AFFBE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76978D9D-A2C1-4E87-9769-9B299AFFBE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76978D9D-A2C1-4E87-9769-9B299AFFBE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76978D9D-A2C1-4E87-9769-9B299AFFBE21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
